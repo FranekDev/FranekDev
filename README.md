@@ -5,7 +5,7 @@ I'm a student and an enthusiast of full-stack development. 🚀 Currently, I'm h
 
 ## 🌱 I’m currently learning 
  - Laravel
- - JavaScript
+ - VueJS
 
  <br>
  <br>
