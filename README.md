@@ -12,7 +12,7 @@ I'm a student and an enthusiast of full-stack development. 🚀 Currently, I'm h
  <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,php,laravel,vue,kotlin,java,py,tailwindcss,sass,webpack,figma,postgresql,html,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,vue,kotlin,java,dotnet,cs,py,tailwindcss,sass,figma,postgresql,html,git,docker&perline=8" />
 </p>
 
 <br>
