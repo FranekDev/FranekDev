@@ -1,18 +1,18 @@
 # Hi there, I'm Franek 👋
 
-I'm a student and an enthusiast of full-stack development. 🚀 Currently, I'm honing my skills in software development and exploring new technologies and tools.
+I'm a student from Poland and an enthusiast of full-stack development. 🚀 Currently, I'm honing my skills in software development and exploring new technologies and tools.
 
 
 ## 🌱 I’m currently learning 
- - Laravel
- - VueJS
+ - .Net
+ - Next.js
 
  <br>
  <br>
  <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,php,laravel,vue,kotlin,java,dotnet,cs,py,tailwindcss,sass,figma,postgresql,html,git,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin,js,php,laravel,vue,java,py,tailwindcss,sass,figma,postgresql,html,git,docker&perline=8" />
 </p>
 
 <br>
