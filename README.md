@@ -19,11 +19,11 @@ I'm a student from Poland and an enthusiast of full-stack development. 🚀 Curr
 <br>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franekdev&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
+  <img height=200 align="center" src="https://github-readme-stats-franeks-projects.vercel.app/api/top-langs/?username=franekdev&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franekdev&show_icons=true&theme=rose_pine&hide_border=true" alt="Franek's Github stats" />
+  <img height=200 align="center" src="https://github-readme-stats-franeks-projects.vercel.app/api?username=franekdev&show_icons=true&theme=rose_pine&hide_border=true" alt="Franek's Github stats" />
 </p>
 
 
