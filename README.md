@@ -1,6 +1,7 @@
 # Hi there, I'm Franek 👋
 
-I'm a student from Poland and an enthusiast of full-stack development. 🚀 Currently, I'm honing my skills in software development and exploring new technologies and tools.
+I'm a student from Poland and an enthusiast of full-stack development. 🚀<br>
+I'm interested in technologies such as: Kotlin, Java, Spring, Docker
 
 
 ## 🌱 I’m currently learning 
