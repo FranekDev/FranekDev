@@ -3,11 +3,11 @@
 I'm a student from Poland and an enthusiast of full-stack development. <br>
 <br>
 🔭 I love exploring new technologies.<br>
-I'm particularly interested in technologies such as: Kotlin, Java, Spring, Docker
+I'm particularly interested in technologies such as: .NET, C#, Kotlin, Next.js
 
 
 
-## 🌱 I’m currently learning 
+## 🌱 I’m currently building with 
  - .Net
  - Next.js
 
@@ -16,18 +16,18 @@ I'm particularly interested in technologies such as: Kotlin, Java, Spring, Docke
  <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin,js,php,laravel,vue,java,py,tailwindcss,sass,figma,postgresql,html,git,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin,ts,react,next,php,laravel,tailwindcss,postgresql,git,docker&perline=6" />
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-franeks-projects.vercel.app/api/top-langs/?username=franekdev&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franekdev&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-franeks-projects.vercel.app/api?username=franekdev&show_icons=true&theme=rose_pine&hide_border=true" alt="Franek's Github stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franekdev&show_icons=true&theme=rose_pine&hide_border=true" alt="Franek's Github stats" />
 </p>
 
 
