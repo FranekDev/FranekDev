@@ -1,6 +1,7 @@
 # Hi there, I'm Franek 👋
 
 I'm a student from Poland and an enthusiast of full-stack development. <br>
+Currently working as Junior .Net Developer.<br>
 <br>
 🔭 I love exploring new technologies.<br>
 I'm particularly interested in technologies such as: .NET, C#, Kotlin, Next.js
